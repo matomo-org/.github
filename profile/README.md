@@ -1,8 +1,3 @@
-<!--
-SPDX-FileCopyrightText: 2025 Matomo and Matomo contributors
-SPDX-License-Identifier: MIT
--->
-
 # Matomo
 **The leading open-source web analytics platform that gives you 100% data ownership.**
 
