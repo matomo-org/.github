@@ -1,7 +1,7 @@
 # Matomo
 **The leading open-source web analytics platform that gives you 100% data ownership.**
 
-![](https://matomo.org/wp-content/uploads/2022/03/Dasboard-01-01-2048x1264.png)
+![](https://matomo.org/wp-content/uploads/2022/03/Dasboard-01-01.png)
 
 ## Why is this so awesome? 🤩
 
